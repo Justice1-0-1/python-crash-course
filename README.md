@@ -46,7 +46,7 @@ Once set up, you can run any of the Python files in the repository. For example,
 python hello.py
 ```
 
-Each project will be stored in its own folder. I’ll follow the structure outlined in the book, organizing my code by chapters and topics.
+Each project/exercise will be stored in its own folder. I’ll follow the structure outlined in the book, organizing my code by chapters and topics.
 
 ## Project List
 
